@@ -5,6 +5,6 @@ This pragram is made for cheating. The professional version of HackTool.
 Utility
 Made by Polokalap!
 
-# How do I Close the ghost AC?
+# The program crashed
 
-ctrl + shift + esc and find Utility then end task.
+Just press the Button J
