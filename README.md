@@ -8,3 +8,7 @@ Made by Polokalap!
 # The program crashed
 
 Just press the Button J
+
+# This is open Source!
+
+You can just simply edit the code and distribute it. Please mention me.
